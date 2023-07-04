@@ -40,7 +40,7 @@ default-leave-message: "&cGoodbye!"
 
 # New Player Counter settings
 #WARN: It needs to restart the Server after do any change on it
-New-player-counter: false
+New-player-counter: true
 Welcome-message: "&7Welcome &e&lPLAYERNAME &7to the server!"
 
 
