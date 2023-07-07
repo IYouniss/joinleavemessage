@@ -262,7 +262,7 @@ public class JoinleaveMessage extends JavaPlugin implements CommandExecutor, Lis
         player.sendMessage("");
         player.sendMessage(ChatColor.DARK_PURPLE + "         NewJoinMessage Help");
         player.sendMessage("");
-        player.sendMessage(ChatColor.GRAY + "    JoinMessage version: " + ChatColor.GREEN + "1.5 Beta" + ChatColor.GREEN + " ✔");
+        player.sendMessage(ChatColor.GRAY + "    JoinMessage version: " + ChatColor.GREEN + "2.0 Beta" + ChatColor.GREEN + " ✔");
         player.sendMessage("");
         player.sendMessage(ChatColor.GRAY + "    Made With " + ChatColor.RED + "❤" + ChatColor.GRAY + " by Yanel");
         player.sendMessage("");
